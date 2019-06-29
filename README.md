@@ -1,2 +1,2 @@
-# gradient-background
-#### This webpage creates a Linear Gradient Using the colors you choose.
+# Gradient-Background
+#### This webpage creates a Linear Gradient Background Using the colors you choose and gives you the CSS code you can use yourself
